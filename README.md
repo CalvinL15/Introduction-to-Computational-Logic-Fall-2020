@@ -3,4 +3,4 @@ A repository containing the code for programming assignments of Intro to Computa
 
 
 Instructor: 王柏堯 (Bow-Yaw Wang)
-Will be updated as the course progresses.
+
